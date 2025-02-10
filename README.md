@@ -9,9 +9,6 @@ A fully functional **Gemini AI Clone** built using **React.js** and **Vite**.
 ✅ Responsive Design  
 ✅ Vercel Deployment  
 
-## 📸 Screenshots
-![Gemini Clone](https://your-image-url.com)  
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Vite, CSS  
