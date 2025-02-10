@@ -1,8 +1,30 @@
-# React + Vite
+# Gemini Clone 🚀  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional **Gemini AI Clone** built using **React.js** and **Vite**.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Interactive Chat Interface  
+✅ Smooth Animations & UI  
+✅ Responsive Design  
+✅ Vercel Deployment  
+
+## 📸 Screenshots
+![Gemini Clone](https://your-image-url.com)  
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Vite, CSS  
+- **Deployment**: Vercel  
+
+## 🔗 Live Demo  
+
+Click here 👉 https://gemini-clone-pi-two.vercel.app/
+
+## 📝 How to Run Locally  
+
+```bash
+git clone https://github.com/your-username/gemini-clone.git
+cd gemini-clone
+npm install
+npm run dev
